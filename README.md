@@ -2,9 +2,9 @@
 
 Definitions for LuaMetaTeX
 
-TeXLuaCats-Repository: https://github.com/TeXLuaCATS/LuaMetaTeX (upstream)
+TeXLuaCATS-Repository: https://github.com/TeXLuaCATS/LuaMetaTeX (upstream)
 
-LuaCats-Repository: https://github.com/LuaCATS/tex-luametatex (downstream)
+LuaCATS-Repository: https://github.com/LuaCATS/tex-luametatex (downstream)
 
 ## About the documented project
 
